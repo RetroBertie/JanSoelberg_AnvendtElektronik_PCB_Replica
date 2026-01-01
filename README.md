@@ -1,4 +1,4 @@
-#Jan Soelberg: Anvendt Elektronik (1970) - PCB Replica
+Jan Soelberg: Anvendt Elektronik (1970) - PCB Replica
 by RobertK a.k.a. Retro Bertie (2026)
 RetroBertie@outlook.com
 Version 1.0 (2026-01-01)
@@ -6,7 +6,11 @@ Version 1.0 (2026-01-01)
 This is a replica of the PCB that came with the book "Anvendt Elektronik" by Jan Soelberg, initially published in Danish language in 1970. It was later translated to Swedish ("Tillämpad Elektronik"), German ("Amateur Elektronik") and English ("Amateur Electronics"). The book can be downloaded in different languages from this website:
 https://www.ae80.dk/index.php/jostykit-filer/ae-boeger/ae-boeger/
 
+![Screenshot](https://github.com/RetroBertie/JanSoelberg_AnvendtElektronik_PCB_Replica/blob/main/JanSoelberg_AnvendtElektronik_1971_01.jpg)
+
 As a teenager in the 1980s, I made my first steps into electronics with this book (our public library had a copy), but due to my lack of talent I didn't get very far. A few years ago, I acquired a copy of that book for nostalgic reasons, but it came without the board. I felt that the book was incomplete without the PCB, so I decided to create this replica.
+
+<img src="https://github.com/RetroBertie/JanSoelberg_AnvendtElektronik_PCB_Replica/blob/main/AmateurElektronik_v10_Front.JPG" width="600" />
 
 I did the following changes and improvements to the new PCB:
 - Modern symbols
