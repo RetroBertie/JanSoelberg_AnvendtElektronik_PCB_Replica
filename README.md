@@ -1,6 +1,6 @@
-Jan Soelberg: Anvendt Elektronik (1970) - PCB Replica
-by RobertK a.k.a. Retro Bertie (2026)
-RetroBertie@outlook.com
+**Jan Soelberg: Anvendt Elektronik (1970) - PCB Replica** \
+by RobertK a.k.a. Retro Bertie (2026) \
+RetroBertie [at] outlook.com \
 Version 1.0 (2026-01-01)
 
 This is a replica of the PCB that came with the book "Anvendt Elektronik" by Jan Soelberg, initially published in Danish language in 1970. It was later translated to Swedish ("Tillämpad Elektronik"), German ("Amateur Elektronik") and English ("Amateur Electronics"). The book can be downloaded in different languages from this website:
@@ -30,7 +30,7 @@ I did not fix the following bug:
 
 I have also created a bill of materials (BOM) file. The parts differ among the various editions of the book, I would recommend using the values from the Swedish edition, because they obviously fixed errors in the AE7 circuit which have not been fixed in the German edition, despite the latter one having been published a year later.
 
-The Gerber files can be used for ordering boards at PCB manufacturers like JLCPCB.
+The Gerber files can be used for ordering boards at PCB manufacturers like JLCPCB. \
 I have used Sprint Layout for creating this board, and I have also published the .lay6 file. I was using the files JanSoelberg_AnvendtElektronik_1971_Front.jpg and JanSoelberg_AnvendtElektronik_1971_Back_Mirrored.jpg as backdrops (150 DPI, X-Offset -18 for the back side).
 
 Contact me if you should find any bugs in the layout, or if you can tell me that everything is working as it should.
