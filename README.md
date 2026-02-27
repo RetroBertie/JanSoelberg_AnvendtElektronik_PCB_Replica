@@ -36,3 +36,7 @@ I have used Sprint Layout for creating this board, and I have also published the
 Contact me if you should find any bugs in the layout, or if you can tell me that everything is working as it should.
 
 Thanks to Forum64 users Unseen, Zaphod and Retro-Rentner for their support. The images of the book and the board are from an internet auction which is no longer online, so I can't give credit to the photographer.
+
+Update 27 February 2026: I've been told that a PCB replica had already been made, this one is 100% identical to the original one:
+https://www.ae80.dk/index.php/jostykit-filer/ae/ae80-1977-10-smaa-konstruktioner/
+So now we have to of them, but my version has the above mentioned improvements.
